@@ -3,8 +3,7 @@
     <h1> Hi there, I'm Rija Shahzad👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
-  
+  <a href="https://github.com/RijaShahzad"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
@@ -22,7 +21,7 @@
 <br>
 <h2 align="center"> Contribution Graph: </h2>
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadfareed&theme=xcode)](https://github.com/saadfareed)
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RijaShahzad&theme=xcode)](https://github.com/RijaShahzad)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
