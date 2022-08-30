@@ -3,11 +3,7 @@
     <h1> Hi there, I'm Rija Shahzad👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/RijaShahzad"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
-	
- ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="270" />
+<a href="https://github.com/RijaShahzad"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;&center=true&width=500&height=50"></a>
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
