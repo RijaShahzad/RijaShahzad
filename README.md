@@ -86,7 +86,7 @@
 <br>
 
 
-## Personal Projects
+<!-- ## Personal Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
 |-------------|-------------------|---|---| ----|
@@ -95,17 +95,17 @@
 | [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
 | [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/) |
 
-	
+	 -->
  
  <h2>GitHub Analytics
  </h2>
 
 <p align="center">
-<a href="https://github.com/saadfareed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadfareed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadfareed&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/RijaShahzad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RijaShahzad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RijaShahzad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadfareed&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RijaShahzad&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
