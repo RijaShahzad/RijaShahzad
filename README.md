@@ -5,16 +5,13 @@
 <p align="center">
 <a href="https://github.com/RijaShahzad"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;&center=true&width=500&height=50"></a>
 	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
-### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
-- 🌱 I’m currently expanding my knowledge in DevOps.
+### I'm becoming a Full-stack Developer!
+- 🌱 I’m currently expanding my knowledge in Javascript.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected  
+- 📢 Love to teach and inspire students.
+- 🥅 2022-23 Goals: Contribute more to Open Source projects.
+- 💎 If you are a Tech person let's get connected! 
  
 <h2>Tech Stack</h2>
 
