@@ -15,7 +15,7 @@
  
 <h2>Tech Stack</h2>
 
-<table width="200">
+<table width="500">
 <tr>
     <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
