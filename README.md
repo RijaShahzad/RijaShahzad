@@ -16,7 +16,7 @@
 <h2>Tech Stack</h2>
 
 <table width="100">
-<tr>
+<tr align='center'>
     <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
@@ -29,7 +29,7 @@
 	</td> 
 </tr>
  
-<tr>
+<tr align='center'>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
