@@ -6,7 +6,7 @@
 <a href="https://github.com/RijaShahzad"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;&center=true&width=500&height=50"></a>
 	
 
-### I'm becoming a Full-stack Developer!
+### I'm learning Full-stack Development!
 - 🌱 I’m currently expanding my knowledge in Javascript.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
