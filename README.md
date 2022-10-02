@@ -87,11 +87,11 @@
 </p>
 
 
-## 🚀Github Metrics
+<!-- ## 🚀Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/RijaShahzad/RijaShahzad/blob/main/github-metrics.svg" />
 </p>
-<br>
+<br> -->
 
 ## 🐛Github Magic Game
 <p align="center">
