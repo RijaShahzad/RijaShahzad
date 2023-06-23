@@ -10,7 +10,7 @@
 - 🌱 I’m currently expanding my knowledge in Javascript.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects.
+- 🥅 2023-24 Goals: Contribute to Open Source projects.
 - 💎 If you are a Tech person let's get connected! 
  
 <h2>Tech Stack</h2>
