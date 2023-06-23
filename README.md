@@ -104,8 +104,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RijaShahzad&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
-</p> -->
+</p> 
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/RijaShahzad/count.svg" />
-</p>
+</p> -->
