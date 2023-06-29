@@ -64,6 +64,7 @@
 
 	 -->
  
+ <!--
  <h2>GitHub Analytics
  </h2>
 
@@ -84,7 +85,7 @@
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
-</p>
+</p> -->
 
 
 <!-- ## 🚀Github Metrics
